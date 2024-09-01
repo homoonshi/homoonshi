@@ -1,15 +1,19 @@
 # Moon Hee Kim 👋
 
-### Main Language
+### Used as the main
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style-square-red?style=flat-square&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style-square-red?style=flat-square&logo=spring&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style-square-red?style=flat-square&logo=mysql&logoColor=white)
 
 ### Used at least once
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style-square-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style-square-red?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style-square-red?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style-square-red?style=flat-square&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style-square-red?style=flat-square&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style-square-red?style=flat-square&logo=Vue.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?&style-square-red?style=flat-square&logo=React&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style-square-red?style=flat-square&logo=MongoDB&logoColor=white)
+
 
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=homoonshi)](https://solved.ac/homoonshi/)
