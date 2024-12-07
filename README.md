@@ -18,8 +18,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style-square-red?style=flat-square&logo=CSS3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style-square-red?style=flat-square&logo=Vue.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?&style-square-red?style=flat-square&logo=React&logoColor=white)
-![StyledComponents](https://img.shields.io/badge/Styled-Components-DB7093?&style-square-red?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?&style-square-red?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-A5917D.svg?&style-square-red?style=flat-square&logo=zustand&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154.svg?&style-square-red?style=flat-square&logo=reactquery&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/Styled-Components-DB7093?&style-square-red?style=flat-square&logo=styledcomponents&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?&style-square-red?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### DB
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style-square-red?style=flat-square&logo=mysql&logoColor=white)
@@ -31,7 +34,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?&style-square-red?style=flat-square&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?&style-square-red?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?&style-square-red?style=flat-square&logo=figma&logoColor=white)
-
 
 ## Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=homoonshi)](https://solved.ac/homoonshi/)
