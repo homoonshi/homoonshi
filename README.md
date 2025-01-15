@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=6fd1cb&height=200&section=header&text=WELCOME%20TO-nl-MoonHee's%20GitHub&fontAlignY=30&fontAlignY=50&fontSize=45&fontColor=FFFFFF&stroke=000000&strokeWidth=0&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=9ce6e1&height=200&section=header&text=WELCOME%&desc=Moonhee's%20Github&fontAlign=45&fontAlignY=40&fontColor=000000&fontSize=55&descAlign=72&descAlignY=60&descSize=30&descColor=8dd9d4&rotate=13)
 # SKILL
 ### LANGUAGE
 ![c++](https://img.shields.io/badge/C++-00599C.svg?&style-square-red?style=flat-square&logo=cplusplus&logoColor=white)
@@ -11,7 +10,9 @@
 ### BACKEND
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style-square-red?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style-square-red?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style-square-red?style=flat-square&logo=springsecurity&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style-square-red?style=flat-square&logo=springsecurity&logoColor=white)
+![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA-6DB33F.svg?&style-square-red?style=flat-square&logo=spring&logoColor=white)
+![Querydsl](https://img.shields.io/badge/Querydsl-468acf.svg?&style-flat-square?style=flat-square&logo=Querydsl&logoColor=white)
 
 ### FRONTEND
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style-square-red?style=flat-square&logo=html5&logoColor=white)
@@ -34,6 +35,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?&style-square-red?style=flat-square&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?&style-square-red?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?&style-square-red?style=flat-square&logo=figma&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?&style-square-red?style=flat-square&logo=mattermost&logoColor=white)
 
 ## Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=homoonshi)](https://solved.ac/homoonshi/)
@@ -46,3 +48,5 @@
  <a href="mailto:homoonshi@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhomoonshi%2Fhit-counter&count_bg=%2391E9E3&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
