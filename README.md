@@ -48,7 +48,3 @@
  <a href="mailto:homoonshi@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/homoonshi" width="600" height="300"/></a>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhomoonshi%2Fhit-counter&count_bg=%2391E9E3&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
